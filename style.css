@@ -1,0 +1,9 @@
+input{
+  width: 200px
+}
+.sizing{
+	float: left;
+	margin: 1px;
+	height: 100px;
+	width: 100px;
+}
